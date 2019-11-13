@@ -1,4 +1,4 @@
-class CLTimer < Formula
+class ClTimer < Formula
     desc "A cubing timer for the terminal"
     homepage "https://lol-cubes/github.io/cl-timer"
     url "https://github.com/lol-cubes/cl-timer/raw/master/cl-timer-1.0.5.tar.gz"
