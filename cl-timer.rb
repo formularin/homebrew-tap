@@ -1,9 +1,9 @@
 class ClTimer < Formula
     desc "A cubing timer for the terminal"
     homepage "https://lol-cubes/github.io/cl-timer"
-    url "https://github.com/lol-cubes/cl-timer/files/3849017/cl-timer-1.0.7.tar.gz"
-    sha256 "aa86a66460b3e9351db28d8ef798b017814f48a574ed44bf75db50ddc47a3786"
-    version "1.0.7"
+    url "https://github.com/lol-cubes/cl-timer/releases/download/cl-timer-1.1.2.tar.gz"
+    sha256 "82c2e07081c18eac97de8b0535b952452eda69d9d659d0df8f3ef56519938561"
+    version "1.1.2"
 
     bottle :unneeded
   
